@@ -17,12 +17,14 @@
 .music-player{
     background: #ffe0e5;
     width: 400px;
-    padding: 25px 35px;
+    padding: 25px 45px;
     text-align: center;
+    
 }
 nav{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     margin-bottom: 30px;
 }
 nav .circle{
